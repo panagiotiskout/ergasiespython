@@ -1,0 +1,6 @@
+{"name":"john",
+"age":21,
+"id":28,
+"shopping cart":["chocolate","lettuce","wine"],
+"shopping cart2":["strawberries","oranges","cherries"]
+}
